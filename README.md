@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rhriti
 - 👀 I’m interested in Dev nd CP.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently Exploring options and coding :/.
 - 💞️ I’m looking to collaborate on Nothing.
-- 📫 How to reach me ...
+- 📫 How to reach me *dont*...
 
 <!---
 Rhriti/Rhriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
