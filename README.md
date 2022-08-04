@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rhriti
-- 👀 I’m interested in Dev and CP.
-- 🌱 I’m currently Exploring options and coding :/.
-- 💞️ I’m looking to collaborate on Anything.
+- 👀 I’m interested in Dev,CP & BB.
+- 🌱 I’m currently Exploring and coding :/.
 - 📫 How to reach me ... rhritij11629@gmail.com
 
 <!---
