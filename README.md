@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rhriti
-- 👀 I’m interested in Dev,CP & BB.
-- 🌱 I’m currently checking things out .
-- 📫 How to reach me ... rhritij11629@gmail.com
+- 👀 I’m interested in Dev,CP,BB & EH.
 
 <!---
 Rhriti/Rhriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
